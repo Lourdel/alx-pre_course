@@ -1,1 +1,3 @@
-My Updated new branch
+### ALX TRAINING ###
+
+-Learning how to work with git
